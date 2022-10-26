@@ -1,0 +1,280 @@
+body{
+    margin: 0%;
+    width: 9in;
+}
+
+#Green{
+ 
+ width: 14.5in;
+ height: 21cm;
+ background-image: linear-gradient(to right,rgba(107, 241, 120, 1), rgba(107, 241, 120, 0.273));
+}
+#first-white{
+    height: 25cm;
+}
+#second-green{
+    background-color: rgba(107, 241, 120, 0.192);
+    width: 14.5in;
+    height: 21cm;
+}
+#Green>h1{
+    font-size: xx-large;
+    position:relative ;
+    top: 4.6cm;
+    left: 2.3cm;
+    color: rgba(105, 105, 105, 0.514);
+}
+#Green>h3{
+    font-size: x-large;
+    position:relative ;
+    top: 5cm;
+    left: 1.5cm;
+    color: rgba(105, 105, 105, 0.514)
+}
+#first-profile-div{
+    display: inline;
+    position: relative;
+bottom: 8cm;
+}
+#first-profile{
+    display: inline;
+    position: relative;
+    width: 8cm;
+    height: 8cm;
+    margin-left: 6in;
+    z-index: 10;
+    bottom: 2%;
+
+}
+
+#first-profile-decor{
+    position: relative;
+    top: 4.6cm;
+    right: 3.6cm;
+display: inline;
+    margin-left: 3.8in;
+    width: 3in;
+}
+#Second-profile-decor {
+    position: relative;
+    bottom:7.6cm;
+   left: 7.6cm;
+display: inline;
+    margin-left: 3.8in;
+    width: 4in;
+}
+   
+#second-profile{
+    display: inline;
+    position: relative;
+    width: 8cm;
+    height: 8cm;
+    bottom: 14cm;
+    right: -3cm;
+}
+#Try{
+    border-style: none;
+    padding: .23cm;
+    border-radius: 32%;
+    position: relative;
+    left: 3.5cm;
+    bottom: 2cm;
+}
+#Demo{
+    position: relative;
+    left: 4cm;
+    background-color:rgb(107, 241, 120) ;
+    border-radius: 32%;
+    border-style: solid;
+    border-width: .2px;
+    padding: .23cm;
+    bottom: 2cm;
+}
+#message-bubble{
+    position: relative;
+    left: 25cm;
+    bottom: 8cm;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(97, 97, 97);
+    border-radius: 10% 40%;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+color: white;
+text-align: center;
+ 
+}
+#first-chat{
+    width: 1cm;
+    border-radius: 50%;
+    position: relative;
+    bottom: 28.5cm;
+    left: 3.5cm;
+}
+#second-chat{
+    width: 1cm;
+    border-radius: 50%;
+    position: relative;
+    bottom: 16.6cm;
+}
+#Green > p {
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(97, 97, 97);
+    border-radius: 10% 40%;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+#anygood{
+    position: relative;
+    left: 25cm;
+    bottom: 8cm;
+    padding: 10px;
+    width: 150px;
+    background-color: rgb(97, 97, 97);
+    border-radius: 10% 40%;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+#notyet{
+    position: relative;
+    bottom:16.6cm;
+   left:-8cm;
+display: inline;
+}
+#first-white > h1{
+position: relative;
+left: 14.5cm;
+}
+
+#Lurem{
+    position: absolute;
+    left: 11.5cm;
+    right: 500px;
+    width: 500px;
+   
+    padding: 10px;
+}
+#learn-more{
+    padding: .23cm;
+    background-color:rgb(107, 241, 120) ;
+    border-radius: 32%;
+    border-style: none;
+    border-width: .2px;
+    position: absolute;
+   left: 15.8cm;
+    top: 25cm;
+
+}
+#appscreenshot{
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    left: 9.5cm;
+    top:27cm;
+    z-index: 10;
+    box-shadow: 5px 10px 8px #88888894;
+}
+#middle-decor{
+    width: 3in;
+    position: relative;
+    left: 21.5cm;
+}
+#workspace{
+    position: relative;
+    top: 3cm;
+    right: 4cm;
+ width: 15cm;
+ height: 15cm;
+ z-index: 10;
+}
+#last-decor-1{
+    width: 3in;
+    position: relative;
+    bottom: 8cm;
+}
+#last-decor-2{
+    width: 2in;
+    position: relative;
+    right: 7cm;
+}
+#second-green>h1{
+ position:relative;
+ left: 20cm;
+ bottom: 9.6cm;
+ font-size: xx-large;
+ color: rgba(0, 0, 0, 0.5);
+}
+#second-green>h3{
+    position:relative;
+    left: 20cm;
+    bottom: 9.8cm;
+    font-size: medium;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+}
+#navbar1> li{
+    float: left;
+display: block;    
+padding: 8px;
+}
+#navbar1{
+    position: absolute;
+    width: 100%;
+    top: 10px;
+    left: 1000px;
+}
+#circle{
+    border-style: none;
+    border-radius: 20%;
+    background-color: aliceblue;
+    padding: 10px;
+}
+button{
+    border-radius: 5px;
+}
+#try-it{
+    position:relative;
+    left: 20cm;
+    bottom: 9.8cm;
+    border-style: none;
+    padding: 5px;
+    background-color:rgb(107, 241, 120) ;
+}
+#get-demo{
+    position:relative;
+    left: 20.2cm;
+    bottom: 9.8cm;
+    border-style: none;
+    padding: 5px;
+    background-color:white ;
+}
+#green-logo{
+    position: relative;
+    top: 3cm;
+    width: 3cm;
+}
+
+#help{
+    text-align: center;
+    
+}
+#help>li{
+    text-decoration: underline;
+}
+#features{
+    text-align: right;
+    position: relative;
+    bottom: 2cm;
+
+}
+#features>li{
+    text-decoration: underline;
+}
